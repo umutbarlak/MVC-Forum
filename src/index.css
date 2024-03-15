@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #3c3636;
+  color: white;
+}
+
+.active {
+  display: none;
+}
+
+.post:hover button {
+  visibility: visible;
+}

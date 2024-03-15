@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "5",
+      "user": "Serkan",
+      "title": "merhaba arkadaşlar",
+      "text": "Siyasetçilerden akademisyenlere, uluslararası danışmanlardan çok satan yazarlara kadar geniş bir yelpazede yer alan uzman ekonomistler",
+      "date": "11.03.2024"
+    },
+    {
+      "id": "2",
+      "user": "Ahmet",
+      "title": "merhaba dostlar",
+      "text": "Dünyadaki güncel dinamikleri anlamlandırmak, toplantılarınıza artı bir değer katmak için devlet adamları, öncü trend belirleyiciler",
+      "date": "9.03.2024"
+    },
+    {
+      "id": "4",
+      "user": "Mehmet",
+      "title": "merhaba kardeşler",
+      "text": "Kurumunuzdaki öncü pozitif değişimlere yol gösterecek uygulanabilir iş stratejilerini, liderlik tekniklerini ve yenilikçi servis yöntemlerini sunan liderler",
+      "date": "10.03.2024"
+    },
+    {
+      "id": "2b241ef1-e808-459a-b711-80326f95a970",
+      "user": "Serkan",
+      "title": "JavaScript Dizi Metotları",
+      "text": "JavaScript dizi metotları ...."
+    },
+    {
+      "id": "ee6c08a9-c494-4d31-ad1a-b617c34a39ca",
+      "user": "Mehmet",
+      "title": "mvc mimarisi",
+      "text": "Mvc mimarişi üç başlık altında ..."
+    },
+    {
+      "id": "cd2db077-87c5-4cdd-baa9-2a638bce690b",
+      "user": "Hasan",
+      "title": "react",
+      "text": "react bileşen yapısı ....."
+    },
+    {
+      "id": "3c8711ac-9270-471d-ae7d-c9023e90263f",
+      "user": "Hasan",
+      "title": "css",
+      "text": "css ile bootstrap ..."
+    }
+  ]
+}
